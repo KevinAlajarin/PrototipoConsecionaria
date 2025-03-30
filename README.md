@@ -1,6 +1,6 @@
 # Automotores Giugno
 
-Sitio web oficial de Automotores Giugno, concesionaria de vehículos ubicada en Lanús, Buenos Aires.
+Sitio web de una concesionaria de vehículos.
 
 ## Características
 
@@ -17,24 +17,6 @@ Sitio web oficial de Automotores Giugno, concesionaria de vehículos ubicada en 
 - React Router
 - Heroicons
 
-## Instalación
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/tu-usuario/automotores-giugno.git
-```
-
-2. Instalar dependencias:
-```bash
-cd automotores-giugno
-npm install
-```
-
-3. Iniciar el servidor de desarrollo:
-```bash
-npm start
-```
-
 ## Estructura del Proyecto
 
 ```
@@ -45,12 +27,3 @@ src/
   └── index.js       # Punto de entrada
 ```
 
-## Contacto
-
-- Dirección: Cnel. Pringles 18, B1824 Lanús, Provincia de Buenos Aires
-- Teléfono: 011 4241-5108
-- Horario de atención: Lunes a Viernes 9:00 - 18:00, Sábados 9:00 - 13:00
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. 
